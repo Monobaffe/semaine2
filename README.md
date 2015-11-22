@@ -9,3 +9,32 @@ Les exercices demander en semaines deux sont l'introduction en php sur codecadem
 
 https://www.codecademy.com/fr/users/lagneau/achievements
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Mon CV sans CSS</title>
+</head>
+<body>
+   <header>
+        <h1>LAGNEAU Mathieu</h1>
+        <h2>Codeur Imformatique</h2>
+    </header>
+
+    <main>
+        <ul><h3>Mes formations</h3>
+            <li>BEP Hotellerie</li>
+            <li>BEP Horticulture</li>
+        </ul>
+        
+        <ul><h3>Expérience professionnelle</h3>
+            <li>Entretiens espace vert Clarisse Environnement</li>
+            <li>Téléconseiller/Back office Armatis Châteauroux</li>
+        </ul>
+    </main>
+    <footer>
+        <p>Mes coordonnées :25 rue d'anjou,3600 chateauroux/ 0659527137 / mathieu.lagneau86@laposte.net</p>
+    </footer>
+</body>
+</html>
+
